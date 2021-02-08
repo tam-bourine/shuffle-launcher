@@ -1,0 +1,24 @@
+{
+  "name": "shuffle-launcher",
+  "version": "1.0.0",
+  "description": "slackでメンバーをシャッフルしてグループ分けすることができるアプリです。",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/bolt": "^3.1.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tam-bourine/shuffle-launcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tam-bourine/shuffle-launcher/issues"
+  },
+  "homepage": "https://github.com/tam-bourine/shuffle-launcher#readme"
+}
